@@ -1,4 +1,11 @@
 ## How to get it running
+
+Install dependencies with
+
+```
+npm install
+```
+
 ### Development
 To run a development build simply run the following command from the terminal:
 ```
